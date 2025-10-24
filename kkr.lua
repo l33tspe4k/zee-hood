@@ -13,4 +13,4 @@ local OriginalNameCall; OriginalNameCall = hookmetamethod(game, "__namecall", ne
     return OriginalNameCall(Object, ...)
 end))
 
-print('adonis counter kkr mdrrrrrrrrrrr')
+print('phase 1')
